@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.status {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+}
+
+.alive {
+  background: green;
+}
+.dead {
+  background: red;
+}
